@@ -1,0 +1,3 @@
+SCREEN_WIDTH = 1000 # 屏幕宽度
+SCREEN_HEIGHT = 600 # 屏幕高度
+FPS = 60 # 帧率
